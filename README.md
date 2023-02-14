@@ -2,7 +2,7 @@
   <img align="right" alt="cassie-pic" height="190" style="border-radius:80px;" src="https://user-images.githubusercontent.com/120739752/218877424-c6af0a47-553e-4907-bb34-40dade8127ec.gif">
 </div> 
 
-I'm a technology student and i love tecnology and learn new things👋
+I'm a technology student and i love learn new things👋
 
 
 
